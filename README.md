@@ -9,3 +9,5 @@ Plot of loss metric can be seen below where blue and green line represent train 
 Visualization of sample results for 10 pairs of items are shown below.
 
 ![Fashion_MNIST](Fashion_MNIST.jpg)
+
+The colab notebook for this project can be found [here](https://github.com/Aryan625/One-shot-Learning-using-Siamese-Network/blob/main/One_shot_Learning_using_Siamese_Network.ipynb) or in this [google drive link](https://colab.research.google.com/drive/1UYPSZFZr4ZRDeysSEiFf_tWRmn_t1T1x?usp=sharing)
